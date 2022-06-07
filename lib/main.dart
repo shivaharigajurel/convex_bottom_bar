@@ -1,7 +1,10 @@
 import 'package:convex_bottom_bar/convex_bottom_bar.dart';
 import 'package:flutter/material.dart';
-import 'package:package_try_2/screens/home.dart';
-
+import 'package:package_try_2/add.dart';
+import 'package:package_try_2/dicovary.dart';
+import 'package:package_try_2/home.dart';
+import 'package:package_try_2/massage.dart';
+import 'package:package_try_2/profile.dart';
 
 
 void main() => runApp(const MaterialApp(
